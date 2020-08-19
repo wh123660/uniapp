@@ -29,8 +29,8 @@ switch(uni.getSystemInfoSync().platform){
 }
 
 // if(config.env == 'dev'){
-	config.baseurl = 'http://192.168.1.215:7070'
-	config.ossurl = 'https://intelligent-navigation.oss-cn-hangzhou.aliyuncs.com/'
+	config.baseurl = ''
+	config.ossurl = ''
 // }
 
 
